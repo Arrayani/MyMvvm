@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MyMvvm</string>
+    <string name="phone_authentication">Phone Authentication</string>
+    <string name="phone_number">phone_number</string>
+    <string name="verification_code">verification_code</string>
+    <string name="start">Start</string>
+    <string name="verify">Verify</string>
+    <string name="resend">Resend</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="edit_item">Edit item</string>
+    <string name="input_item">Input item</string>
+    <string name="merk">Merk</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="varian">varian</string>
+    <string name="harga_modal">Harga Modal</string>
+    <string name="harga_jual">Harga Jual</string>
+    <string name="stok">Stok</string>
+    <string name="satuan">Satuan</string>
+    <string name="perbox">Perbox</string>
+    <string name="stokx">Stok: </string>
+    <string name="harga_jualx">Harga Jual: </string>
+    <string name="varianx">Varian: </string>
+    <string name="nama_barangx">Nama Barang: </string>
+    <string name="merkx">Merk: </string>
+    <string name="arya">Arya</string>
+    <string name="stark">Stark</string>
+    <string name="warna">Warna Coklat</string>
+    <string name="unit">Unit: </string>
+    <string name="rp">Rp.</string>
+    <string name="dummy1">90.000</string>
+    <string name="dummy2">100</string>
+    <string name="close">Close</string>
+    <string name="harga_modalx">Harga Modal:</string>
+    <string name="dummy3">15.000.000</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="new_search">New Search</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="merkx2">Merk:</string>
+    <string name="stark4">Stark Stark Star Stark</string>
+    <string name="warna2">warna coklat warna coklat</string>
+    <string name="qty">Qty:</string>
+    <string name="dummy4">5000</string>
+    <string name="dummy5">120.000.000</string>
+    <string name="total_harga">Total Harga :</string>
+
+    <string name="floatbutton">floatbutton</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="masukan_harga_jual">Masukan Harga Jual</string>
+    <string name="masukan_jumlah_pembelian">Masukan Jumlah Pembelian</string>
+    <string name="daftar_harga_barang">Daftar Harga Barang</string>
+    <string name="x">X</string>
+    <string name="home">Home</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="update_stok">Update stok!!</string>
+    <string name="rp2">Rp.</string>
+    <string name="print_2x">Print 2x</string>
+    <string name="print_1x">Print 1x</string>
+    <string name="ok">OK</string>
+
+
+    <string-array name="satuan">
+        <item>Pcs</item>
+        <item>Box</item>
+        <item>Karton</item>
+        <item>Lembar</item>
+        <item>Botol</item>
+        <item>Lusin</item>
+        <item>Bal</item>
+    </string-array>
+    <string-array name="pembayaran">
+        <item>Cash</item>
+        <item>Transfer Bank</item>
+        <item>Kartu Debit</item>
+        <item>Kartu Kredit</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="dummyZero">0</string>
+</resources>
